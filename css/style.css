@@ -413,6 +413,12 @@ footer{
 
     }
 
+    .btn-rounded{
+        position: absolute;
+        margin-top: 2rem;
+
+    }
+
     .btn-xl{
         font-size: 1rem;
         padding: 0.6rem 2rem;
